@@ -14,7 +14,9 @@
 | 1 | 1 | 1 |  |
 
 
-![Simulation](/Images/basicBoolSim.png)
-
+<<<<<<< HEAD
+![Simulation](Images/basicBoolSim.png)
 
 new text
+=======
+>>>>>>> 41e048d142bd4aa567d0aa7b761e4eea80e5890f
