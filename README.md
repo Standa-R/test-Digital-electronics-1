@@ -8,7 +8,7 @@
 
 *this test is italic*
 
-**but this is BOLD*
+**but this is BOLD**
 
 *List follows:*
 1. The first item
