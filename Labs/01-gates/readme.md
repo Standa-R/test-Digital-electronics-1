@@ -14,4 +14,4 @@
 | 1 | 1 | 1 |  |
 
 
-![Simulation](/Images/basicBoolSim.png)
+![Simulation](Images/basicBoolSim.png)
