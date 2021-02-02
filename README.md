@@ -26,3 +26,19 @@ First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
+
+
+```vhdl
+architecture dataflow of gates is
+begin
+    for_o  <= a_i or b_i;
+    fand_o <= a_i and b_i;
+    fxor_o <= a_i xor b_i;
+
+end architecture dataflow;
+```
+
+
+
+
+
