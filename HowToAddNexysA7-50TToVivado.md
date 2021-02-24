@@ -22,5 +22,5 @@ Adding process
 
 ###### Sources
 
-[1]: https://forums.xilinx.com/t5/Vivado-Debug-and-Power/help-find-board-files-for-Nexys-a7-in-Vivado/td-p/1166486
+1: https://forums.xilinx.com/t5/Vivado-Debug-and-Power/help-find-board-files-for-Nexys-a7-in-Vivado/td-p/1166486
 
