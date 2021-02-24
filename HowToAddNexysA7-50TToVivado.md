@@ -1,6 +1,6 @@
 # How to add Nexys A7-50T to Vivado 2020.2
 
-Nexys A7-50T might not be part of the Vivado 2020.2 Installation but it can be added manually, see [0] for details.
+Nexys A7-50T might not be part of the Vivado 2020.2 Installation but it can be added manually, see [1] for details.
 
 Adding process
 
